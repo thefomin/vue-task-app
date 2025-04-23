@@ -15,8 +15,8 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/thefomin/vue-task.git
-cd task
+git clone https://github.com/thefomin/vue-task-app.git
+cd vue-task-app
 ```
 
 ### 2. Сбилдить Docker-образ
